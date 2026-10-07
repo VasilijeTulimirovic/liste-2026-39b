@@ -10,9 +10,7 @@ namespace liste_2026_39b
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("pozdrav 3-9");
-            double a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine(a*a);
+            Console.WriteLine("Vasilije Tulimirovic");
         }
     }
 }
